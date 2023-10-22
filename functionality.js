@@ -13,9 +13,6 @@ const answers = [
     "I didn't understand"
 
 ];
-maybe: 2
-yes: 1
-no: 4
 
 const answerBlock = document.getElementById("answer");
 
